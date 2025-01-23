@@ -1,0 +1,6 @@
+C:\Users\andyz\Downloads\hw1 (6) - Copy\hw1\x64\Debug\libzmq-mt-gd-4_3_5.dll
+C:\Users\andyz\Downloads\hw1 (6) - Copy\hw1\hw1\x64\Debug\hw1.vcxproj.Up2Date
+C:\Users\ziyad\Desktop\adny\hw2 - Server\hw1\x64\Debug\libzmq-mt-gd-4_3_5.dll
+C:\Users\ziyad\Desktop\adny\hw2 - Server\hw1\hw1\x64\Debug\hw1.vcxproj.Up2Date
+C:\Users\philm\source\repos\server\x64\Debug\libzmq-mt-gd-4_3_5.dll
+C:\Users\philm\source\repos\server\hw1\x64\Debug\hw1.vcxproj.Up2Date

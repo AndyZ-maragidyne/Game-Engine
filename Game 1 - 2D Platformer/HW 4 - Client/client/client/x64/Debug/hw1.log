@@ -1,0 +1,36 @@
+﻿  GameObject.cpp
+D:\Google Chrome Downloads\HW 4\HW 4 - Client\client\GameObject.hpp(41,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'GameObject.cpp')
+  
+D:\Google Chrome Downloads\HW 4\HW 4 - Client\client\GameObject.hpp(41,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'GameObject.cpp')
+  
+D:\Google Chrome Downloads\HW 4\HW 4 - Client\client\GameObject.hpp(45,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'GameObject.cpp')
+  
+D:\Google Chrome Downloads\HW 4\HW 4 - Client\client\GameObject.hpp(45,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'GameObject.cpp')
+  
+D:\Google Chrome Downloads\HW 4\HW 4 - Client\client\GameObject.hpp(83,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'GameObject.cpp')
+  
+D:\Google Chrome Downloads\HW 4\HW 4 - Client\client\GameObject.hpp(84,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'GameObject.cpp')
+  
+D:\Google Chrome Downloads\HW 4\HW 4 - Client\client\GameObject.hpp(107,99): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data
+D:\Google Chrome Downloads\HW 4\HW 4 - Client\client\GameObject.hpp(107,99): warning C4244:         with
+D:\Google Chrome Downloads\HW 4\HW 4 - Client\client\GameObject.hpp(107,99): warning C4244:         [
+D:\Google Chrome Downloads\HW 4\HW 4 - Client\client\GameObject.hpp(107,99): warning C4244:             ValueType=float
+D:\Google Chrome Downloads\HW 4\HW 4 - Client\client\GameObject.hpp(107,99): warning C4244:         ]
+  (compiling source file 'GameObject.cpp')
+  
+D:\Google Chrome Downloads\HW 4\HW 4 - Client\client\GameObject.hpp(107,67): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data
+D:\Google Chrome Downloads\HW 4\HW 4 - Client\client\GameObject.hpp(107,67): warning C4244:         with
+D:\Google Chrome Downloads\HW 4\HW 4 - Client\client\GameObject.hpp(107,67): warning C4244:         [
+D:\Google Chrome Downloads\HW 4\HW 4 - Client\client\GameObject.hpp(107,67): warning C4244:             ValueType=float
+D:\Google Chrome Downloads\HW 4\HW 4 - Client\client\GameObject.hpp(107,67): warning C4244:         ]
+  (compiling source file 'GameObject.cpp')
+  
+  hw1.vcxproj -> D:\Google Chrome Downloads\HW 4\HW 4 - Client\client\x64\Debug\client.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

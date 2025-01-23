@@ -1,0 +1,34 @@
+﻿  EventManager.cpp
+D:\Google Chrome Downloads\HW 4\HW 4 - Server\server\GameObject.hpp(39,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'EventManager.cpp')
+  
+D:\Google Chrome Downloads\HW 4\HW 4 - Server\server\GameObject.hpp(39,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'EventManager.cpp')
+  
+D:\Google Chrome Downloads\HW 4\HW 4 - Server\server\GameObject.hpp(43,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'EventManager.cpp')
+  
+D:\Google Chrome Downloads\HW 4\HW 4 - Server\server\GameObject.hpp(43,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'EventManager.cpp')
+  
+D:\Google Chrome Downloads\HW 4\HW 4 - Server\server\GameObject.hpp(47,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'EventManager.cpp')
+  
+D:\Google Chrome Downloads\HW 4\HW 4 - Server\server\GameObject.hpp(47,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'EventManager.cpp')
+  
+D:\Google Chrome Downloads\HW 4\HW 4 - Server\server\GameObject.hpp(51,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'EventManager.cpp')
+  
+D:\Google Chrome Downloads\HW 4\HW 4 - Server\server\GameObject.hpp(51,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'EventManager.cpp')
+  
+D:\Google Chrome Downloads\HW 4\HW 4 - Server\server\GameObject.hpp(89,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'EventManager.cpp')
+  
+D:\Google Chrome Downloads\HW 4\HW 4 - Server\server\GameObject.hpp(90,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'EventManager.cpp')
+  
+  hw1.vcxproj -> D:\Google Chrome Downloads\HW 4\HW 4 - Server\server\x64\Debug\server.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

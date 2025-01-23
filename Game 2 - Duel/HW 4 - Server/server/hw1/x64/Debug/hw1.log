@@ -1,0 +1,123 @@
+﻿  draw.cpp
+C:\Users\philm\source\repos\server\entity.hpp(18,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'draw.cpp')
+  
+C:\Users\philm\source\repos\server\entity.hpp(18,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'draw.cpp')
+  
+C:\Users\philm\source\repos\server\entity.hpp(22,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'draw.cpp')
+  
+C:\Users\philm\source\repos\server\entity.hpp(22,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'draw.cpp')
+  
+C:\Users\philm\source\repos\server\draw.cpp(23,46): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\philm\source\repos\server\draw.cpp(23,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\philm\source\repos\server\draw.cpp(23,65): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\philm\source\repos\server\draw.cpp(23,65): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  entity.cpp
+C:\Users\philm\source\repos\server\entity.hpp(18,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'entity.cpp')
+  
+C:\Users\philm\source\repos\server\entity.hpp(18,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'entity.cpp')
+  
+C:\Users\philm\source\repos\server\entity.hpp(22,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'entity.cpp')
+  
+C:\Users\philm\source\repos\server\entity.hpp(22,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'entity.cpp')
+  
+  game.cpp
+C:\Users\philm\source\repos\server\entity.hpp(18,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\philm\source\repos\server\entity.hpp(18,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\philm\source\repos\server\entity.hpp(22,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\philm\source\repos\server\entity.hpp(22,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+  init.cpp
+  input.cpp
+C:\Users\philm\source\repos\server\entity.hpp(18,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'input.cpp')
+  
+C:\Users\philm\source\repos\server\entity.hpp(18,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'input.cpp')
+  
+C:\Users\philm\source\repos\server\entity.hpp(22,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'input.cpp')
+  
+C:\Users\philm\source\repos\server\entity.hpp(22,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'input.cpp')
+  
+C:\Users\philm\source\repos\server\input.cpp(108,51): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\philm\source\repos\server\input.cpp(114,51): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\philm\source\repos\server\input.cpp(122,51): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\philm\source\repos\server\input.cpp(128,51): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\philm\source\repos\server\input.cpp(136,51): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\philm\source\repos\server\input.cpp(142,51): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+  main.cpp
+C:\Users\philm\source\repos\server\entity.hpp(18,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\philm\source\repos\server\entity.hpp(18,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\philm\source\repos\server\entity.hpp(22,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\philm\source\repos\server\entity.hpp(22,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\philm\source\repos\server\main.cpp(85,9): warning C4102: 'std': unreferenced label
+  physics.cpp
+C:\Users\philm\source\repos\server\entity.hpp(18,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'physics.cpp')
+  
+C:\Users\philm\source\repos\server\entity.hpp(18,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'physics.cpp')
+  
+C:\Users\philm\source\repos\server\entity.hpp(22,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'physics.cpp')
+  
+C:\Users\philm\source\repos\server\entity.hpp(22,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'physics.cpp')
+  
+  server.cpp
+C:\Users\philm\source\repos\server\entity.hpp(18,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'server.cpp')
+  
+C:\Users\philm\source\repos\server\entity.hpp(18,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'server.cpp')
+  
+C:\Users\philm\source\repos\server\entity.hpp(22,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'server.cpp')
+  
+C:\Users\philm\source\repos\server\entity.hpp(22,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'server.cpp')
+  
+  structs.cpp
+  threads.cpp
+C:\Users\philm\source\repos\server\entity.hpp(18,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'threads.cpp')
+  
+C:\Users\philm\source\repos\server\entity.hpp(18,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'threads.cpp')
+  
+C:\Users\philm\source\repos\server\entity.hpp(22,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'threads.cpp')
+  
+C:\Users\philm\source\repos\server\entity.hpp(22,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'threads.cpp')
+  
+  Timeline.cpp
+  Generating Code...
+  LINK : C:\Users\philm\source\repos\server\x64\Debug\hw1.exe not found or not built by the last incremental link; performing full link
+  hw1.vcxproj -> C:\Users\philm\source\repos\server\x64\Debug\hw1.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

@@ -1,0 +1,91 @@
+﻿  main.cpp
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\entity.hpp(18,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\entity.hpp(18,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\entity.hpp(22,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\entity.hpp(22,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\GameObject.hpp(40,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\GameObject.hpp(40,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\GameObject.hpp(44,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\GameObject.hpp(44,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\GameObject.hpp(48,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\GameObject.hpp(48,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\GameObject.hpp(52,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\GameObject.hpp(52,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\GameObject.hpp(90,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\GameObject.hpp(91,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  server.cpp
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\entity.hpp(18,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'server.cpp')
+  
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\entity.hpp(18,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'server.cpp')
+  
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\entity.hpp(22,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'server.cpp')
+  
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\entity.hpp(22,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'server.cpp')
+  
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\GameObject.hpp(40,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'server.cpp')
+  
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\GameObject.hpp(40,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'server.cpp')
+  
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\GameObject.hpp(44,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'server.cpp')
+  
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\GameObject.hpp(44,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'server.cpp')
+  
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\GameObject.hpp(48,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'server.cpp')
+  
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\GameObject.hpp(48,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'server.cpp')
+  
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\GameObject.hpp(52,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'server.cpp')
+  
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\GameObject.hpp(52,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'server.cpp')
+  
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\GameObject.hpp(90,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'server.cpp')
+  
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\GameObject.hpp(91,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'server.cpp')
+  
+D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\server.cpp(16,12): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  Generating Code...
+  hw1.vcxproj -> D:\Google Chrome Downloads\HW 4 - Copy\HW 4 - Server\server\x64\Debug\server.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

@@ -1,0 +1,9 @@
+C:\Users\philm\source\repos\client\x64\Debug\libzmq-mt-gd-4_3_5.dll
+C:\Users\philm\source\repos\client\client\x64\Debug\hw1.vcxproj.Up2Date
+C:\Users\andyz\Downloads\HW 3\HW 2 server and client and writeup\HW 2 - Client\client\x64\Debug\libzmq-mt-gd-4_3_5.dll
+C:\Users\andyz\Downloads\HW 3\HW 2 server and client and writeup\HW 2 - Client\client\client\x64\Debug\hw1.vcxproj.Up2Date
+C:\Users\andyz\Downloads\HW 3 (1)\HW 3\HW 3 - Client\client\x64\Debug\libzmq-mt-gd-4_3_5.dll
+C:\Users\andyz\Downloads\HW 3 (1)\HW 3\HW 3 - Client\client\client\x64\Debug\hw1.vcxproj.Up2Date
+D:\Google Chrome Downloads\HW 4\HW 4 - Client\client\x64\Debug\libzmq-mt-gd-4_3_5.dll
+D:\Google Chrome Downloads\HW 4\HW 4 - Client\client\x64\Debug\libsodium.dll
+D:\Google Chrome Downloads\HW 4\HW 4 - Client\client\client\x64\Debug\hw1.vcxproj.Up2Date

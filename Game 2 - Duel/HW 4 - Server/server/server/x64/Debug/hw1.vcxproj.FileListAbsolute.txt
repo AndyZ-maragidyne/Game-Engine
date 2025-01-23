@@ -1,0 +1,17 @@
+C:\Users\philm\source\repos\server\x64\Debug\libzmq-mt-gd-4_3_5.dll
+C:\Users\philm\source\repos\server\server\x64\Debug\hw1.vcxproj.Up2Date
+C:\Users\andyz\Downloads\HW 2 - Server\server\x64\Debug\libzmq-mt-gd-4_3_5.dll
+C:\Users\andyz\Downloads\HW 2 - Server\server\server\x64\Debug\hw1.vcxproj.Up2Date
+C:\Users\andyz\Downloads\HW 2 server and client and writeup\HW 2 server and client and writeup\HW 2 - Server\server\x64\Debug\libzmq-mt-gd-4_3_5.dll
+C:\Users\andyz\Downloads\HW 2 server and client and writeup\HW 2 server and client and writeup\HW 2 - Server\server\server\x64\Debug\hw1.vcxproj.Up2Date
+C:\Users\andyz\Downloads\HW 3\HW 2 server and client and writeup\HW 2 - Server\server\x64\Debug\libzmq-mt-gd-4_3_5.dll
+C:\Users\andyz\Downloads\HW 3\HW 2 server and client and writeup\HW 2 - Server\server\server\x64\Debug\hw1.vcxproj.Up2Date
+D:\Google Chrome Downloads\HW 3\HW 2 server and client and writeup\HW 2 - Server\server\x64\Debug\libzmq-mt-gd-4_3_5.dll
+D:\Google Chrome Downloads\HW 3\HW 2 server and client and writeup\HW 2 - Server\server\x64\Debug\libsodium.dll
+D:\Google Chrome Downloads\HW 3\HW 2 server and client and writeup\HW 2 - Server\server\server\x64\Debug\hw1.vcxproj.Up2Date
+D:\Google Chrome Downloads\HW 3\HW 3 - Server\server\x64\Debug\libzmq-mt-gd-4_3_5.dll
+D:\Google Chrome Downloads\HW 3\HW 3 - Server\server\x64\Debug\libsodium.dll
+D:\Google Chrome Downloads\HW 3\HW 3 - Server\server\server\x64\Debug\hw1.vcxproj.Up2Date
+D:\Google Chrome Downloads\HW 4\HW 4 - Server\server\x64\Debug\libzmq-mt-gd-4_3_5.dll
+D:\Google Chrome Downloads\HW 4\HW 4 - Server\server\x64\Debug\libsodium.dll
+D:\Google Chrome Downloads\HW 4\HW 4 - Server\server\server\x64\Debug\hw1.vcxproj.Up2Date
