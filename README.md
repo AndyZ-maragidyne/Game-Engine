@@ -5,6 +5,6 @@
 - component based entity system
 - event management system
 
-Contains three folders with three different games built using the engine. 
-
+## How to play games
+Each of the three games are made using the game engine
 To play the game, you would need to launch the server and client for the respective game
